@@ -1,0 +1,2 @@
+C:\msys64\ucrt64\bin\ar.exe qc libhomework1_lib.a CMakeFiles/homework1_lib.dir/src/transformer.cpp.obj
+C:\msys64\ucrt64\bin\ranlib.exe libhomework1_lib.a
